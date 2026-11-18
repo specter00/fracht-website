@@ -1,0 +1,7 @@
+Website-Demo (Entwurf)
+
+1. ZIP-Datei zuerst entpacken: Rechtsklick > Alle extrahieren (Mac: doppelklicken).
+2. Im entpackten Ordner index.html doppelklicken. Die Seite öffnet sich im Browser.
+
+Läuft ohne Internet auf Computer und Laptop. Auf dem Handy bitte die PDF-Vorschau ansehen.
+Demo-Version mit Platzhaltern. Über das Formular werden keine Anfragen versendet.
