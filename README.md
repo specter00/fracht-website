@@ -151,6 +151,8 @@ Then open http://localhost:4173. Form requests are not e-mailed locally; the sta
 
 ## Demo version to send around
 
+Live demo (GitHub Pages, served from `docs/`): https://specter00.github.io/fracht-website/. After a change, run the command below, commit and push; Pages updates within a few minutes.
+
 ```bash
 uv run --with pillow python tools/make-share.py
 ```
